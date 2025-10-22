@@ -1,0 +1,45 @@
+# --- Visual Studio / IDE ---
+.vs/
+*.suo
+*.user
+*.userosscache
+*.vcxproj.user
+*.sln.docstates
+*.code-workspace
+.vscode/
+.idea/
+
+# --- Build output (Debug/Release/bin/obj) ---
+[Dd]ebug/
+[Rr]elease/
+build/
+bin/
+obj/
+out/
+
+# --- Compiled objects, libs and executables ---
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.out
+*.pdb
+*.ilk
+
+# --- Temp / logs / editor swap ---
+*.log
+*.tmp
+*~
+*.swp
+*.swo
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Archives ---
+*.zip
+*.tar.gz
+*.rar

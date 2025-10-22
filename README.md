@@ -124,4 +124,4 @@ Each command has its own **dedicated data structure**, even when it contains onl
 
 ---
 
-*This work was completed as part of the “Operating Systems II” course during the 2024/2025 academic year.*
+*This work was completed as part of the “Operating Systems II” course during the 2024/2025 academic year in a group of 2 members. (Grade: 10 out of 10)*
